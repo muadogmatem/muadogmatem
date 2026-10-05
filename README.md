@@ -11,3 +11,6 @@
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&color=232F3E)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
+
+![:muadogmatem](https://count.getloli.com/@muadogmatem?theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=09182)
+![:muadogmatem](https://count.getloli.com/@muadogmatem?theme=rule34&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=65126)
