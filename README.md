@@ -1,4 +1,4 @@
-![:muadogmatem](https://count.getloli.com/@muadogmatem?theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=36)
+![:muadogmatem](https://count.getloli.com/@muadogmatem?theme=rule34&padding=2&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=36)
 
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&color=777BB4)
